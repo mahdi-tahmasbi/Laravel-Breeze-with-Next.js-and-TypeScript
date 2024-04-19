@@ -22,7 +22,7 @@ This repository combines the power of Laravel Breeze, Next.js, and TypeScript to
 
 1. Clone the Repository:
    bash
-   git clone https://github.com/mahdi-tahmasbii/laravel-breeze-next.js-typeScript.git
+   git clone https://github.com/mahdi-tahmasbii/Laravel-Breeze-with-Next.js-and-TypeScript/tree/master.git
    
 
 2. Install Dependencies:
